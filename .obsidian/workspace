@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "98e707e8284436cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd27e45d95c5a78b",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c19cdcce8f4407c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "692243c1e4c6a396",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee57249665d10429",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "136e089230e04c3b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 175.5
+  },
+  "right": {
+    "id": "77ebbb8c479461ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b3fe38fdb074c88",
+        "type": "tabs",
+        "dimension": 41.5351506456241,
+        "children": [
+          {
+            "id": "4c3c5c4416be2170",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "1e6d15a468332973",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "1d53918767d23263",
+        "type": "tabs",
+        "dimension": 58.46484935437589,
+        "children": [
+          {
+            "id": "8b6af1bf78dff8b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9ad826f8db5c5297",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b69c36ae33083781",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e90db4ac32c80bb2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "22d0c9ad5a582ea2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 428.5
+  },
+  "active": "cd27e45d95c5a78b",
+  "lastOpenFiles": [
+    "Nietzsche.md",
+    "obsidianVault/Esame.md",
+    "Heidegger.md",
+    "obsidianVault/Git.md",
+    "obsidianVault/Italiano.md",
+    "Italiano.md",
+    "Git.md",
+    "3D.md",
+    "Silvia Salvatici.md",
+    "Fiore di roccia.md"
+  ]
+}
